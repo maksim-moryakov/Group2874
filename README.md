@@ -11,4 +11,4 @@ Learned:
     * git init - initialization of git, you need to start working with git, git will start monitoring changes in the folder where initialization took place.
     * git status - checks the status of the current position.
     * git add . - adding all files versioning control.
-    * git add <file> - fixes changes only in the specified file <file> 
+    * git add name_file - fixes changes only in the specified file 
