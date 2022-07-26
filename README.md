@@ -30,7 +30,7 @@ Language syntax
     * second line
     * third line
     + fourth line
-7. To select a piece of text, you need to wrap the text in three tildes (``` ```). Example: 
+7. yfgbnfsdbsdbsblskdcscbcblalsd (``` ```). Example: 
     ```
     text
     ```
