@@ -11,7 +11,14 @@ Learned:
     * git init - initialization of git, you need to start working with git, git will start monitoring changes in the folder where initialization took place.
     * git status - checks the status of the current position.
     * git add . - adding all files versioning control.
-    * git add name_file - fixes changes only in the specified name_file 
+    * git add name_file - fixes changes only in the specified name_file
+    * git commit -m “…” - Creates a commit, a save point, an entry in the history of changes.
+    * git log - displays the change log.
+    * git log --graph - shows a visual branching of branches.
+    * git checkout <name_branch> - switching to a branch.
+    * git checkout -b <name_branch> - create a branch and switch to it.
+    * git merge <name_branck> - copy all changes from branch to branch.
+
 
 ## Markdown
 
