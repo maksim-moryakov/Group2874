@@ -25,9 +25,10 @@ Language syntax
     1. first line
     2. second line
     3. third line
-6. To create an unnumbered list, you need to put a star in front of the line (*). Example:
+6. To create an unnumbered list, you need to put a star or plus in front of the line (*) (+). Example:
     * first line
     * second line
     * third line
+    + fourth line
 7. To add an image to a Markdown file, use the following command ![text for under picture](link or path to picture). Example:
     ![cat](https://wallbox.ru/resize/800x480/wallpapers/main/201546/e49e8e606a6eeaa.jpg)
