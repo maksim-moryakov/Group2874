@@ -30,5 +30,9 @@ Language syntax
     * second line
     * third line
     + fourth line
-7. To add an image to a Markdown file, use the following command ![text for under picture](link or path to picture). Example:
+7. To select a piece of text, you need to wrap the text in three tildes (``` ```). Example: 
+    ```
+    text
+    ```
+8. To add an image to a Markdown file, use the following command ![text for under picture](link or path to picture). Example:
     ![cat](https://wallbox.ru/resize/800x480/wallpapers/main/201546/e49e8e606a6eeaa.jpg)
